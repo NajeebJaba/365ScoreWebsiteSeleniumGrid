@@ -1,0 +1,11 @@
+{
+  "url": "https://www.365scores.com/he",
+  "user_name": "standard_user",
+  "hub_url": "http://localhost:4444/wd/hub",
+  "grid": true,
+  "serial": false,
+  "browser": "chrome",
+  "platform": "windows",
+  "browser_types": ["chrome", "firefox", "edge"]
+}
+
